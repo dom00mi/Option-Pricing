@@ -57,7 +57,6 @@ In this section, let's take a look on the famous Black-Scholes Partial Different
 
 
 This has a well-known closed-form solution, but let's pretend to use a Numerical Method to obtain the solution, hence differentiation using the grid.
-![grid-2.png](attachment:grid-2.png)
 
 
 ##### Time to Maturity Step:
