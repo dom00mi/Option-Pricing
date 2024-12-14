@@ -84,7 +84,7 @@ In this mini-research, I will be attempting to use the Monte Carlo scheme to pri
     
   
    
-### 4. Conclusions 
+### 4/5. Conclusions 
 
 - ###### 5.1 Final Observations
     - Monte Carlo Pricing as a valid tool for complex payoffs
@@ -94,25 +94,7 @@ In this mini-research, I will be attempting to use the Monte Carlo scheme to pri
     
 
 
-### 5. References
+### 6. References
 
 
 
-# Importing data analysis libraries
-import pandas as pd
-import numpy as np
-
-# Importing Charting libraries
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-import plotly.express as px
-
-# import math library
-import math
-
-# statistical library
-import scipy.stats as stats
-# option strategies
-import opstrat as op
-# To create tables
-from tabulate import tabulate
