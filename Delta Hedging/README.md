@@ -94,3 +94,41 @@ I would like to show you an essential excerpt from my final CQF (Certificate of 
 
 
 ### 2.2 References
+
+
+To view the full code, please visit my Jupyter notebook!
+
+
+## Some Visualizations
+
+
+![Screenshot 2025-01-09 185239](https://github.com/user-attachments/assets/82ab3442-3288-4381-a1f1-9bef622711c4)
+
+
+
+
+
+![Screenshot 2025-02-11 222416](https://github.com/user-attachments/assets/dbcf5d20-a5e2-491c-96b1-d18d7acc4d73)
+
+
+
+![Screenshot 2025-02-11 222432](https://github.com/user-attachments/assets/2258f419-6432-4fed-b069-f2b311db5be1)
+
+
+
+![Screenshot 2025-02-11 222456](https://github.com/user-attachments/assets/81f267ba-9153-4247-bd1c-5ddab9c2d074)
+
+
+
+![Screenshot 2025-02-11 222529](https://github.com/user-attachments/assets/553d35e3-f25b-4963-81cd-b62d728240ac)
+
+
+![Screenshot 2025-02-11 222605](https://github.com/user-attachments/assets/b8d3e428-ae74-411b-9abd-da0825e96aff)
+
+
+
+![Screenshot 2025-02-11 222631](https://github.com/user-attachments/assets/9fb66925-dd87-4f67-bec5-4442b201c188)
+
+
+![Screenshot 2025-02-11 222700](https://github.com/user-attachments/assets/018bc745-d6d3-4974-b78b-b333405ead85)
+
