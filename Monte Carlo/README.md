@@ -93,8 +93,28 @@ In this mini-research, I will be attempting to use the Monte Carlo scheme to pri
     - Existence of more Closed-Form solutions
     
 
+To see the full code, please visit my Jupyter notebook!
 
-### 6. References
+### Some Visualizations:
 
 
+![vol1](https://github.com/user-attachments/assets/8b74ba96-4d36-4479-8ce3-fbe7aab8d4fc)
+
+
+
+![vol2](https://github.com/user-attachments/assets/6e3e70c9-0196-4acf-a1e3-8c8be1eb08f9)
+
+
+
+
+![vol3](https://github.com/user-attachments/assets/dedbdd40-9f91-4172-a993-a59e6453d6cd)
+
+
+
+
+![vol4](https://github.com/user-attachments/assets/1dcc2840-3d9f-4af1-9494-d0fe7e936fff)
+
+
+
+![vol5](https://github.com/user-attachments/assets/5cded808-4d58-4b4d-b99d-da62385d74ce)
 
