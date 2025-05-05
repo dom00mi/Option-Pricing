@@ -3,8 +3,7 @@
 Based on an essential excerpt from my final CQF (Certificate of Quantitative Finance) project which focused on Optimal Delta Hedging in a Dynamic context, I would like to build a simple and easy to deploy Delta Hedging App via [Streamlit](https://streamlit.io/).
 
 > [!NOTE]
-For full definitions, please have a look into my Dynamic Delta Hedging Jupiter notebook at the [link](https://github.com/dom00mi/Option-Pricing/blob/main/Delta%20Hedging/Dynamic%20Delta%20Hedging.ipynb).
-
+For full definitions, please have a look into my Dynamic Delta Hedging Jupiter notebook at the [link](https://github.com/dom00mi/Option-Pricing/blob/main/Delta%20Hedging/Dynamic%20Delta%20Hedging.ipynb). 
 
 > [!IMPORTANT]
 > ### How to Use the App?
@@ -40,7 +39,8 @@ You can click on:
 ![Screenshot 2025-05-05 150516](https://github.com/user-attachments/assets/ad8c8f9a-b3e8-49d1-a712-d53992dd79c8)
 
 ### Analyse Greeks and P&L over time
-
-
+![Screenshot 2025-05-05 150959](https://github.com/user-attachments/assets/4cb5a7fa-9d74-40f5-b8a6-22b4590e6996)
 
 ### Analyse P&L and compare with Underlying and Option Price over time
+![Screenshot 2025-05-05 151059](https://github.com/user-attachments/assets/d1e84b0a-f657-4ba3-8569-05a94c37f496)
+
