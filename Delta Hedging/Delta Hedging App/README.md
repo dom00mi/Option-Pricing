@@ -12,7 +12,8 @@ For full definitions, please have a look into my Dynamic Delta Hedging Jupiter n
 
 > 1. Save the files locally in your folder, as an example `C:\Users\Your_Username`.
 >
-> 2. Asumming that you have installed  [Anaconda](https://www.anaconda.com/), please launch Anaconda Prompt in your computer
+> 2. Assuming that you have installed  [Anaconda](https://www.anaconda.com/), please launch ![Screenshot 2025-05-05 151452](https://github.com/user-attachments/assets/15d4185f-b428-4f0d-ad3b-2d140e5196d6) in your computer
+
 > 
 > 3. Once launched Anaconda, run the following commands: `cd C:\Users\Your_Username` and `streamlit run delta_hedging_app.py`
 >
